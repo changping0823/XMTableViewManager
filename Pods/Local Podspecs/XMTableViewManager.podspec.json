@@ -1,0 +1,22 @@
+{
+  "name": "XMTableViewManager",
+  "version": "0.1.0",
+  "summary": "A short description of XMTableViewManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/renchangping/XMTableViewManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "renchangping": "rencahngping@antsoo.com"
+  },
+  "source": {
+    "git": "https://github.com/renchangping/XMTableViewManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XMTableViewManager/Classes/**/*"
+}
